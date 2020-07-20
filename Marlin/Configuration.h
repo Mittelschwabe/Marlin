@@ -19,6 +19,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  *  I added this line
+ *  I will delete this line an the ine above with the next release
  */
 #pragma once
 
